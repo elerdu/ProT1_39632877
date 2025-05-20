@@ -20,3 +20,36 @@ color: #fff;
 text-align: center;
 padding: 1px;
 }
+section {
+padding: 20px; /* espaciado para la sección de 20 pixeles */
+}
+/* Estilos para footer */
+footer {
+background-color: #4caf50; /* Color de fondo del footer */
+color: #fff;
+padding: 20px 0;
+text-align: center;}
+/* Estilos para nav */
+nav {
+background-color: #4caf50;
+padding: 10px;
+}
+nav ul {
+list-style: none;
+margin: 0;
+padding: 0;
+text-align: center;
+}
+nav ul li {
+display: inline-block;
+margin-right: 20px;
+}
+nav ul li a {
+color: #fff;
+text-decoration: none;
+padding: 8px 16px;
+border-radius: 5px;
+}
+nav ul li a:hover {
+background-color: #2f8247;
+}
