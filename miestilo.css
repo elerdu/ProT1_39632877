@@ -53,3 +53,22 @@ border-radius: 5px;
 nav ul li a:hover {
 background-color: #2f8247;
 }
+/* Estilos para footer */
+footer {
+background-color: #4caf50; /* Color de fondo del footer */
+color: #fff;
+padding: 20px 0;
+text-align: center;}
+
+.footer-content {
+max-width: 800px; /* Ancho máximo del contenido del footer */
+margin: 0 auto; /* Centrar el contenido del footer horizontalmente */
+}
+/* Estilos para las imágenes */
+img {
+display: block; /* Para eliminar el espacio adicional que algunos navegadores agregan a las img. */
+margin: 0 auto; /* Centrar las imágenes horizontalmente */
+max-width:30%; /* Asegurar que las imágenes no excedan el ancho del contenedor */
+border: 3px solid #69bd45; /* Contorno de 3px con un color verde (#69bd45) alrededor de la img.*/
+border-radius: 10px; /* Borde redondeado de 10px para suavizar el contorno */
+}
